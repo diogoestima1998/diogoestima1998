@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Diogo</h1>
-<h3 align="left">A Passionate Software Development Engineer</h3>
+<h3 align="left">A Passionate Frontend Developer and Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [diogoestima.com](diogoestima.com)
 
