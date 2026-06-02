@@ -4,8 +4,6 @@
 
 <p align="left">
 Building AI, DeFi, Healthcare and SaaS products used by thousands of users worldwide.
-<br />
-Previously @ RA2TECH and SOPHiA GENETICS.
 </p>
 
 
@@ -72,7 +70,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
 ## 🎯 Product & Design
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&perline=1" />
+  <img src="https://skillicons.dev/icons?i=storybook&perline=2" />
   <img src="https://img.shields.io/badge/Design_Systems-7B61FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UX/UI-FF4081?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product_Engineering-009688?style=for-the-badge" />
