@@ -46,8 +46,8 @@ Building AI, DeFi, Healthcare and SaaS products used by thousands of users world
 ## ⛓️ Web3 & DeFi
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://img.shields.io/badge/Viem-000000?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Viem-0966C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wagmi-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RainbowKit-FF69B4?style=for-the-badge" />
