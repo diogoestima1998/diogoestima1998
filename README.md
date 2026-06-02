@@ -69,10 +69,10 @@ Building AI, DeFi, Healthcare and SaaS products used by thousands of users world
 
 ## 🎯 Product & Design
 
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=storybook&perline=2" />
+  <img src="https://skillicons.dev/icons?i=storybook" />
   <img src="https://img.shields.io/badge/Design_Systems-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX/UI-FF4081?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product_Engineering-009688?style=for-the-badge" />
 </p>
 
