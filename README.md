@@ -8,7 +8,7 @@ Building AI, DeFi, Healthcare and SaaS products used by thousands of users world
 Previously @ RA2TECH and SOPHiA GENETICS.
 </p>
 
----
+
 
 ## 🎨 Frontend
 
@@ -16,7 +16,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vite,tailwind,d3,redux,jest,cypress,figma&perline=11" />
 </p>
 
----
+
 
 ## ⚙️ Backend
 
@@ -24,7 +24,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mysql,mongodb,supabase,graphql,postman&perline=8" />
 </p>
 
----
+
 
 ## 🤖 AI Engineering
 
@@ -43,7 +43,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://img.shields.io/badge/AI_Agents-FF5722?style=for-the-badge" />
 </p>
 
----
+
 
 ## ⛓️ Web3 & DeFi
 
@@ -59,7 +59,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://img.shields.io/badge/Cross_Chain-00C853?style=for-the-badge" />
 </p>
 
----
+
 
 ## ☁️ Cloud & DevOps
 
@@ -67,7 +67,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,vercel,cloudflare&perline=5" />
 </p>
 
----
+
 
 ## 🎯 Product & Design
 
@@ -78,7 +78,7 @@ Previously @ RA2TECH and SOPHiA GENETICS.
   <img src="https://img.shields.io/badge/Product_Engineering-009688?style=for-the-badge" />
 </p>
 
----
+
 
 ### 🚀 Highlights
 
